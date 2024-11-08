@@ -4,6 +4,9 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### wildfly ###
+/wildfly-preview-34.0.0.Beta1/
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
